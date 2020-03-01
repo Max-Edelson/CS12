@@ -1,0 +1,2 @@
+# CS12
+4 Units, Lecture, 3 hours, Laboratory, 3 hours, Prerequisite(s): CS 010 with a grade of "C" or better; familiarity with C or C++ language. Covers structured and object-oriented programming in C++. Emphasizes good programming principles and development of substantial programs. Topics include recursion, pointers, linked lists, abstract data types, and libraries. Also covers software engineering principles.
